@@ -1,0 +1,19 @@
+DNA Sequence Analyzer - Sample Output
+
+DNA sequence: ATGCGATACGCTTGA
+Length: 15
+A: 4
+T: 4
+G: 4
+C: 3
+GC content: 46.67 %
+RNA: AUGCGAUACGCUUGA
+Reverse complement: TCAAGCGTATCGCAT
+Protein: MRYA*
+Motif: GCT
+Motif positions: [9]
+Number of occurrences: 1
+Start codon position: 0
+Stop codon position: 12
+ORF: ATGCGATACGCTTGA
+ORF protein: MRYA*
