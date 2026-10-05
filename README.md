@@ -1,2 +1,2 @@
-# python-dna-sequence-analyzer
-A beginner-friendly Python project for basic DNA sequence analysis using Biopython.
+# dna-sequence-analyzer
+A beginner bioinformatics project using Python and Biopython
